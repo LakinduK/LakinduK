@@ -86,5 +86,5 @@
         alt="lakinduk" /></p>
 <br/>
 <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
         alt="lakinduk" /></p>
