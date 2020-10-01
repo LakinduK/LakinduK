@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lakinduk" alt="lakinduk" /> </p>
 
-<img align="left" alt="GIF" src="assets/working-small.gif" style="height:60%" />
+<img align="left" alt="GIF" src="assets/working-small.gif" style="height:50%" />
 
 - 🔭 I’m currently following **BSc(Hons) Software Engineering | University of Plymouth**
 
@@ -81,7 +81,7 @@
             src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"
             width="40" height="40" /> </a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact"
         alt="lakinduk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
