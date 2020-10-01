@@ -13,7 +13,7 @@
 
 - 📫 find me at **lakindu.yk@gmail.com**
 
-<img align="right" alt="GIF" src="assets/working-small.gif" />
+<img align="left" alt="GIF" src="assets/working-small.gif" />
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
