@@ -18,10 +18,10 @@
 <a href="https://dev.to/lakinduk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lakinduk" height="30" width="40" /></a>
 <a href="https://twitter.com/lakinduk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lakinduk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakinduk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lakinduk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10171342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10171342" height="30" width="40" /></a>
 <a href="https://fb.com/lakindu.kariyawasam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lakindu.kariyawasam" height="30" width="40" /></a>
 <a href="https://instagram.com/lakindu_yk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lakindu_yk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/y6 productions" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="y6 productions" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lakindu kariyawasam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lakindu kariyawasam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
