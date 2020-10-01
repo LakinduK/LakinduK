@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakinduk" alt="lakinduk" /> </p>
 
-<img align="left" alt="GIF" src="assets/working-small.gif" />
+<img align="left" alt="GIF" src="assets/working-small.gif" style="height:70%" />
 
 - 🔭 I’m currently following **BSc(Hons) Software Engineering | University of Plymouth**
 
