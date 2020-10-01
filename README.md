@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakindu Kariyawasam</h1>
 <h3 align="center">A passionate, self motivated developer from Sri Lanka | photographer | cinematographer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakinduk" alt="lakinduk" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lakinduk" alt="lakinduk" /> </p>
 
 <img align="left" alt="GIF" src="assets/working-small.gif" style="height:60%" />
 
@@ -81,7 +81,7 @@
             src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"
             width="40" height="40" /> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact"
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact"
         alt="lakinduk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
