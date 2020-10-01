@@ -81,10 +81,10 @@
             src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python"
             width="40" height="40" /> </a> </p> <br/>
             <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact"
         alt="lakinduk" /></p>
 <br/>
 <br/>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
         alt="lakinduk" /></p>
