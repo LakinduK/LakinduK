@@ -83,7 +83,7 @@
             <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact"
-        alt="lakinduk" /></p>
+        alt="lakinduk" /></p><br/>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
         alt="lakinduk" /></p>
