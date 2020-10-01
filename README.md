@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakinduk" alt="lakinduk" /> </p>
 
+<img align="left" alt="GIF" src="assets/working-small.gif" />
+
 - 🔭 I’m currently following **BSc(Hons) Software Engineering | University of Plymouth**
 
 - 🌱 I’m currently learning **react, flutter & c++**
@@ -13,7 +15,6 @@
 
 - 📫 find me at **lakindu.yk@gmail.com**
 
-<img align="left" alt="GIF" src="assets/working-small.gif" />
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
