@@ -36,7 +36,7 @@
 <a href="https://instagram.com/lakindu_yk" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lakindu_yk" height="30"
         width="40" /></a>
-<a href="https://www.youtube.com/c/y6 productions" target="blank"><img align="center"
+<a href="https://www.youtube.com/channel/UCh2cK_tmt36K6r7EvVaGbag" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="y6 productions" height="30"
         width="40" /></a>
 </p>
