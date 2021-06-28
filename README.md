@@ -45,9 +45,9 @@
             <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p><img style="margin-bottom:5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact&theme=tokyonight"
+<p><img style="margin-bottom:5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakinduk&layout=compact&theme="
         alt="lakinduk" /></p>
 <br/>
 <br/>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true&theme=tokyonight"
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
         alt="lakinduk" /></p>
