@@ -5,9 +5,9 @@
 
 <img align="left" alt="GIF" src="assets/working-small.gif" style="width:50%" />
 
-- 🔭 I’m currently following **BSc(Hons) Software Engineering | University of Plymouth**
+- 🔭 Graduated in **BSc(Hons) Software Engineering | University of Plymouth**
 
-- 🌱 I’m currently learning **react, flutter & c++**
+- 🌱 I’m currently learning **laravel, vue & flutter**
 
 - 👯 I’m looking to collaborate on **open source & commercial projects**
 
