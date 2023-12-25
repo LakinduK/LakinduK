@@ -51,7 +51,7 @@
 <br/>
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
         alt="lakinduk" /></p>
-<a href="https://www.holopin.io/@lakinduk"  target="blank"/> 
+<a href="https://www.holopin.io/@lakinduk" target="_blank"/> 
 <p>&nbsp;<img  src="https://holopin.me/lakinduk"
         alt="@LakinduK's Holopin Board" /></p>        
 </a>
