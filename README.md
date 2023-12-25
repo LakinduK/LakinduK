@@ -51,4 +51,4 @@
 <br/>
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=lakinduk&show_icons=true"
         alt="lakinduk" /></p>
-[![An image of @lakinduk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakinduk)](https://holopin.io/@lakinduk)
+[![@LakinduK's Holopin Board](https://holopin.me/lakinduk)](https://holopin.io/@lakinduk)
